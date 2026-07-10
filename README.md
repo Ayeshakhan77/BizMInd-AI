@@ -9,11 +9,6 @@ Built for **AMD Developer Hackathon: ACT II**
 
 ---
 
-## 🚀 Live Demo
-[View Live App](#) | [Demo Video](#)
-
----
-
 ## 📌 Problem Statement
 
 Small and medium businesses generate enormous 
