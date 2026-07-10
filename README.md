@@ -131,23 +131,23 @@ This project was built and developed using
 ### Installation
 
 
-# Clone the repository
+Clone the repository
 git clone https://github.com/yourusername/BizMind-AI.git
 cd BizMind-AI
 
-# Install frontend dependencies
+Install frontend dependencies
 cd frontend
 npm install
 npm run dev
 
-# Install backend dependencies
+Install backend dependencies
 cd ../backend
 pip install -r requirements.txt
 
-# Add environment variables
+Add environment variables
 echo "GROQ_API_KEY=your_key_here" > .env
 
-# Start backend
+Start backend
 uvicorn main:app --reload
 
 
